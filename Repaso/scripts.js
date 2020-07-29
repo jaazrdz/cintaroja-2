@@ -58,6 +58,16 @@ let perro = {
         return 'no hay a quien ladrar';
     },
 };
+
+//Asignrar una nueva propiedad a mi objeto
+perro.noOjos = 2;
+
+//Asignar un nuevo método a mi objeto
+perro.respirar = function respirar() {
+    console.log( "sniff");
+
+};
+
  
 console.log (perro.noPatas);
 console.log (perro.ladrar());

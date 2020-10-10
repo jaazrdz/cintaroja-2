@@ -1,0 +1,22 @@
+{
+  "name": "4_js-async",
+  "version": "1.0.0",
+  "description": "Es mi primer paquete y es una prueba",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js",
+    "apunte": "node apunte.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/jaazrdz/cintaroja-2"
+  },
+  "keywords": [
+    "helloworld",
+    "npm",
+    "nodejs"
+  ],
+  "author": "Jazmin Rdz",
+  "license": "ISC"
+}
